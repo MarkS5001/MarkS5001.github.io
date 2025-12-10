@@ -14,52 +14,74 @@ Physicist, P01 Navy.
 
 Senior physics major at Brigham Young University-Idaho.
 
-### Specialized in
+<!-- ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+XRD, optics, magnetron sputtering, nuclear energy, and quantum information.
 
 
 ## Education
 
 `2023-2026`
 __Brigham Young University-Idaho__
+
 Physics with emphasis in materials science (GPA: 3.81)
 
-Completed introductory classes consisting of kinematics, energy, forces, thermodynamics, fluid physics, chemistry, optics, electricity, magnetism, relativity, and quantum mechanics. Completed advanced courses in nuclear and particle physics, electricity and magnetism, thermal/statistical mechanics, optics, solid state physics, classical mechanics, and quantum mechanics. Completed multivariate calculus, differential equations, and statistics. Engineering courses: statics, and mechanics of materials.
+Completed introductory classes consisting of kinematics, energy, forces, thermodynamics, fluid physics, chemistry, optics, electricity, magnetism, relativity, and quantum mechanics. 
+
+Completed advanced courses in nuclear and particle physics, electricity and magnetism, thermal/statistical mechanics, optics, solid state physics, classical mechanics, and quantum mechanics. Completed multivariate calculus, differential equations, and statistics. 
+
+Engineering courses: statics, and mechanics of materials.
+
 Accepted into the nuclear propulsion officer candidate program for the United States Navy (NUPOC).
 
 ## Experience
 
 `April 2024-Present`
+
 President of High Altitude Balloon Team
+
 • Preform data analysis on sensors flown, and present the data to interested groups.
-• Created a manual to ensure all flights would be able to launch without problems such as specifying all
-equipment needed, and FAA approval.
-• Organized daily scrum meetings to check everyone was accomplishing daily goals, and organized
-biweekly meetings to ensure the entire group knew the plan to accomplish that week.
+
+• Created a manual to ensure all flights would be able to launch without problems such as specifying all equipment needed, and FAA approval.
+
+• Organized daily scrum meetings to check everyone was accomplishing daily goals, and organized biweekly meetings to ensure the entire group knew the plan to accomplish that week.
+
 • Led quarterly safe hydrogen handling trainings to groups of 10.
+
 • Direct weekly multi-disciplinary sprint meetings to discuss projects, and train new team members.
 
 `September 2023-Present`
+
 Surface Physics Team
+
 • President from April 2025-Present.
+
 • Applied techniques to vacate a high vacuum chamber.
+
 • Researched how to fix ion gauge to improve vacuum measurement uncertainties.
+
 • Collaborated to find methods to make a deposition machine.
+
 • Analyzed XRD data to determine material composition, and structure.
 
 ## Skills
 
+
 • Scientific Computation:
+
     o Python (proficient), C++ (basic), Mathematica (Proficient), and MATLAB (Proficient)
+
 • XRD Analysis
+
 • Programming Microcontrollers (Arduino)
+
 • Statistics (Python and Mathematica)
+
 • Fourier Analysis
 
 <!-- ## Awards
@@ -94,9 +116,13 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `2024-2025`
+
 Teaching Assistant
+
 • Aided professor in grading, student questions, and running class while they are away.
+
 • Finished work to meet timeframes set by university.
+
 • Set up equipment for student use while in lab.
 
 
