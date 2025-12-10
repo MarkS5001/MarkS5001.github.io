@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Mark Smith  2025©"
+    left: "Mark Smith 2025©"
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/marksmith5001/
