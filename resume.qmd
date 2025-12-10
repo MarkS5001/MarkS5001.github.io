@@ -33,7 +33,9 @@ Physics with emphasis in materials science (GPA: 3.81)
 
 Completed introductory classes consisting of kinematics, energy, forces, thermodynamics, fluid physics, chemistry, optics, electricity, magnetism, relativity, and quantum mechanics. 
 
-Completed advanced courses in nuclear and particle physics, electricity and magnetism, thermal/statistical mechanics, optics, solid state physics, classical mechanics, and quantum mechanics. Completed multivariate calculus, differential equations, and statistics. 
+Completed advanced courses in nuclear and particle physics, electricity and magnetism, thermal/statistical mechanics, optics, solid state physics, classical mechanics, and quantum mechanics. 
+
+Completed multivariate calculus, differential equations, and statistics. 
 
 Engineering courses: statics, and mechanics of materials.
 
@@ -69,12 +71,14 @@ Surface Physics Team
 
 • Analyzed XRD data to determine material composition, and structure.
 
+• Built magnetron sputtering device.
+
 ## Skills
 
 
 • Scientific Computation:
 
-    o Python (proficient), C++ (basic), Mathematica (Proficient), and MATLAB (Proficient)
+    o Python (proficient), C++ (basic), Mathematica (proficient), MATLAB (basic), and C# (proficient) 
 
 • XRD Analysis
 
