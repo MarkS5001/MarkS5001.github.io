@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mark Smith's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mark Smith
+Physicist, P01 Navy.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="smi20046@byui.edu">smi20046@byui.edu</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior physics major at Brigham Young University-Idaho.
 
 ### Specialized in
 
@@ -27,35 +26,56 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023-2026`
+__Brigham Young University-Idaho__
+Physics with emphasis in materials science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Completed introductory classes consisting of kinematics, energy, forces, thermodynamics, fluid physics, chemistry, optics, electricity, magnetism, relativity, and quantum mechanics. Completed advanced courses in nuclear and particle physics, electricity and magnetism, thermal/statistical mechanics, optics, solid state physics, classical mechanics, and quantum mechanics. Completed multivariate calculus, differential equations, and statistics. Engineering courses: statics, and mechanics of materials.
+Accepted into the nuclear propulsion officer candidate program for the United States Navy (NUPOC).
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`April 2024-Present`
+President of High Altitude Balloon Team
+• Preform data analysis on sensors flown, and present the data to interested groups.
+• Created a manual to ensure all flights would be able to launch without problems such as specifying all
+equipment needed, and FAA approval.
+• Organized daily scrum meetings to check everyone was accomplishing daily goals, and organized
+biweekly meetings to ensure the entire group knew the plan to accomplish that week.
+• Led quarterly safe hydrogen handling trainings to groups of 10.
+• Direct weekly multi-disciplinary sprint meetings to discuss projects, and train new team members.
 
-- Fellow
+`September 2023-Present`
+Surface Physics Team
+• President from April 2025-Present.
+• Applied techniques to vacate a high vacuum chamber.
+• Researched how to fix ion gauge to improve vacuum measurement uncertainties.
+• Collaborated to find methods to make a deposition machine.
+• Analyzed XRD data to determine material composition, and structure.
 
+## Skills
 
+• Scientific Computation:
+    o Python (proficient), C++ (basic), Mathematica (Proficient), and MATLAB (Proficient)
+• XRD Analysis
+• Programming Microcontrollers (Arduino)
+• Statistics (Python and Mathematica)
+• Fourier Analysis
 
-## Awards
+<!-- ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, *French Academy of Science*, Paris, France -->
 
 
 
-## Publications
+<!-- ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -63,25 +83,21 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
+etc. etc. etc. -->
 
-### Patents
+<!-- ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2024-2025`
+Teaching Assistant
+• Aided professor in grading, student questions, and running class while they are away.
+• Finished work to meet timeframes set by university.
+• Set up equipment for student use while in lab.
 
 
 <!-- ### Footer
